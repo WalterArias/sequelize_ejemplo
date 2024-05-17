@@ -1,3 +1,3 @@
 # Ejemplo de uso del ORM sequelize
 
-## se usa la tecnologia common js
+## Usando Common JS, CRUD de una tabla con consultas clásicas.
